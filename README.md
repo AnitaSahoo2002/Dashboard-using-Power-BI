@@ -87,15 +87,7 @@ The dashboard helps in:
 ## 📍 Main Dashboard
 
 <p align="center">
-  <img src="Screenshots/dashboard.png" width="900"/>
-</p>
-
----
-
-## 📍 Analytics Overview
-
-<p align="center">
-  <img src="Screenshots/analytics.png" width="900"/>
+  <img src="Dashboard.jpg" width="900"/>
 </p>
 
 ---
